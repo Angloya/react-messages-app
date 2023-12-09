@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "author": "John Doe",
+        "text": "Hello!",
+        "datetime": 1702070598273
+    },
+    {
+        "id": 2,
+        "author": "Ann Toror",
+        "text": "How are you?",
+        "datetime": 1702070598273
+    },
+    {
+        "id": 3,
+        "author": "Ann Toror",
+        "text": "I am fine, thanks. How are you?",
+        "datetime": 1702070598273
+    },
+    {
+        "id": 4,
+        "author": "Ann Toror",
+        "text": "How are you?",
+        "datetime": 1702070598273
+    },
+    {
+        "id": 5,
+        "author": "Ann Toror",
+        "text": "How are you?",
+        "datetime": 1702070598273
+    },
+    {
+        "id": 6,
+        "author": "Ann Toror",
+        "text": "How are you?",
+        "datetime": 1702070598273
+    },
+    {
+        "id": 7,
+        "author": "Ann Toror",
+        "text": "How are you?",
+        "datetime": 1702070598273
+    }
+]
