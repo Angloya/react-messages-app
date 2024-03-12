@@ -3,7 +3,7 @@ import type { RootState } from '../store/app';
 
 interface UseUserInfo {
     userName: string | null
-    userInfo: string| null
+    userInfo: string | null
 }
 
 export function useUserInfo(): UseUserInfo {
